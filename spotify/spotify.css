@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(20, 20, 20);
+}
+.artistas{
+display: flex;
+justify-content: end;
+gap: 50px;
+
+
+}
+
+.artistas>img{
+    height:300px ;
+    width:300px ;
+    border-radius: 50%;
+    
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+}
